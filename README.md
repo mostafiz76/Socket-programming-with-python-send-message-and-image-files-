@@ -9,4 +9,4 @@ This Repo contains 4 files:
 3. server_script.py - sends text to client
 4. server_img.py - sends imgage data to client
 
-For more details please visit my blog here: 
+For more details please visit my blog here: https://mehebuba.blogspot.com/2020/11/socket-programming-with-pythonsend.html
